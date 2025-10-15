@@ -27,4 +27,4 @@ It features a clean glassmorphism design, smooth hover effects, and both **2-pla
 ## ⚙️ How to Run Locally
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/rassukhan100-maker/tic-tac-toe.git
